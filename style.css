@@ -31,7 +31,10 @@ section.alternate-background {
 }
 
 main img {
-  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
 }
 
 /* ---  Groups & Items --- */
